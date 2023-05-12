@@ -30,6 +30,6 @@ app.post("/", function(req, res){
 })
 
 
-app.listen(3000, function() {
+app.listen("https://ashwin-z.github.io/weather-app/", function() {
   console.log("Server is running on port 3000.")
 })
